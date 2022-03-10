@@ -1,0 +1,1 @@
+web: gunicorn studiosite.wsgi --log-file -
